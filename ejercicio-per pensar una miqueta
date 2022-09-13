@@ -1,0 +1,41 @@
+Per pensar una miqueta
+Aigües i tasses
+Com intercanviaries diferents tipus d'aigua entre dues tasses? No està permès barrejar aigues.
+
+Resposta: Congeles l'aigua de les dues tasses i les treus manualment i les fiques en les tasses contràries.
+
+//TODO
+
+Cerca d'un enter
+Penso en un enter entre 1 i 100. Em pots fer preguntes per tal d'esbrinar de quin enter es tracta, però de manera que:
+
+Només puc contestar-te 'sí' o 'no'
+Has d'intentar que el nombre de preguntes que fas siguin el mínim possible
+No pots preguntar directament si un número és el que cerques
+Resposta:
+
+Divdeixes per la meitat descartant sempre el 50% fins a arribar al número.
+
+//TODO
+
+Pilotes de ping-pong
+Hi ha 27 pilotes de ping-pong, totes iguals en forma, color, mida i pes, excepte una d'elles, que pesa lleugerament una mica menys.
+
+Usant una balança, com pots trobar ràpidament la pilota que és diferent?
+
+peso meitat i meitat, una meitat pesará menys, ja descarto la primera meitat, i segueixo així fins a trobar la pilota.
+
+Resposta:peso meitat i meitat, una meitat pesará menys, ja descarto la primera meitat, i segueixo així fins a trobar la pilota.
+
+//TODO
+
+Camins
+Des de Vilada es poden agafar cinc camins diferents per a anar caminant fins el poble veí de Borredà, camins A, B, C, D i E. No sabem quina és la llargada de cada camí.
+
+Com podem ordenar els cinc camins segons la seva distància, començant pel camí més curt i acabant pel camí més llarg? Ho has de fer mesurant la distància en passes.
+
+Fa falta caminar tots els camins completament?
+
+Resposta:No fa falta. Només haurás de caminar per 4 i comparar les distàncies, una vegada compares les distàncies, podrás endevinar la distància de l'últim camí.
+
+//TODO
